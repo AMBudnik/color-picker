@@ -1,0 +1,15 @@
+{
+  "name": "sample",
+  "version": "0.0.1",
+  "description": "A sample color-picker for Handsontable.",
+  "repository": "https://github.com/AMBudnik/color-picker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "handsontable": "^7.1.1"
+  }
+}
